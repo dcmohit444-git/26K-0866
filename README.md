@@ -17,9 +17,12 @@
 ## Hobbies & Extracurriculars
 
 1.Playing Cricket
--[x] Practice batting
--[x] Practice bowling
--[ ] Participate in a tournament
+
+- [x] Practice batting
+
+- [x] Practice bowling
+
+- [ ] Participate in a tournament
 
 2.Learning Programming
 
