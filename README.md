@@ -3,16 +3,24 @@
 # Mohit kumar
 ## Education
 **BS Computer Science**
+
 *FAST National University of Computer and Emerging Science*
 ## Skills
+
 -HTML
+
 -C++
+
 -Python
+
 -JAVA
 ## Hobbies & Extracurriculars
+
 1.Playing Cricket
 -[x] Practice batting
 -[x] Practice bowling
 -[ ] Participate in a tournament
-2.Learning Programming 
+
+2.Learning Programming
+
 3.Travelling
